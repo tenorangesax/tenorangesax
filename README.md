@@ -1,6 +1,6 @@
 ## Hi there stalker! 
 
-##![](https://komarev.com/ghpvc/?username=tenorangesax&color=FF9C2B&style=plastic&label=You+are+the)th viewer!
+![](https://komarev.com/ghpvc/?username=tenorangesax&color=FF9C2B&style=plastic&label=You+are+the)th viewer!
 
 -Who am I?
 I'm @_tenorangesax_, a hardware and repair expert, and the LAST person you would find relying on AI.
