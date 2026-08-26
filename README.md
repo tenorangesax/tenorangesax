@@ -12,7 +12,7 @@ I'm currently in Hack Club, a nonprofit organization for teens to build and code
 Stasis,
 
 - My links?
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) , [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) , 	(#) , 
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) , [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) , 	(#) https://www.youtube.com/@tenorangesax , 
 
 - Languages?
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) , 
